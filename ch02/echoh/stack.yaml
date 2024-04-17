@@ -29,8 +29,7 @@ resolver: lts-21.19
 #   - auto-update
 #   - wai
 packages:
-- ch01/hello
-- ch02/echoh
+- .
 # Dependency packages to be pulled from upstream that are not in the resolver.
 # These entries can reference officially published versions as well as
 # forks / in-progress versions pinned to a git hash. For example:
